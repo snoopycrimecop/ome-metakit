@@ -103,7 +103,7 @@
 
     <logback.version>1.1.1</logback.version>
     <testng.version>6.8</testng.version>
-    <ome-common.version>5.3.1</ome-common.version>
+    <ome-common.version>6.0.5-SNAPSHOT</ome-common.version>
 
     <!-- NB: Avoid platform encoding warning when copying resources. -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
